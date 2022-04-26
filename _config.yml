@@ -10,23 +10,23 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
+name:				         sophistyle
+title:               sophistyle
+tagline:             'style that you want'
+description:         'fashion blogger and stylist'
+url:                 'https://sophrodri.github.io/'
 rss:                 rss feed url
-baseurl:             '/mickey/'
-baseurl_posts_img:   '/mickey/assets/images/posts/'
-baseurl_featured_img: '/mickey/assets/images/hero/'
-baseurl_featured_thumbnail: '/mickey/assets/images/thumbnail/'
-baseurl_javascripts: '/mickey/assets/javascripts/'
+baseurl:             '/sophia-style/'
+baseurl_posts_img:   '/sophia-style/assets/images/posts/'
+baseurl_featured_img: '/sophia-style/assets/images/hero/'
+baseurl_featured_thumbnail: '/sophia-style/assets/images/thumbnail/'
+baseurl_javascripts: '/sophia-style/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 sophia victoria
+  url:            	 https://sophrodri.github.io/
   facebook:          username
   twitter:           username
   google_plus:       username
@@ -34,6 +34,7 @@ author:
   dribbble:          username
   pinterest:         username
   kiva:              username
+  instagram:         instagram.com/xophiastyle
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
