@@ -3,10 +3,6 @@
 markdown:            redcarpet
 highlighter:         pygments
 
-# Permalinks
-permalink:           :title
-relative_permalinks: true
-
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
