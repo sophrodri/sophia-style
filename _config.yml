@@ -12,15 +12,15 @@ timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         sophistyle
 title:               sophistyle
-tagline:             'style that you want'
+tagline:             'if sharpay evans was a brunette'
 description:         'fashion blogger and stylist'
-url:                 'https://sophrodri.github.io/'
+url:                 https://sophrodri.github.io/
 rss:                 rss feed url
-baseurl:             '/sophia-style/'
-baseurl_posts_img:   '/sophia-style/assets/images/posts/'
-baseurl_featured_img: '/sophia-style/assets/images/hero/'
-baseurl_featured_thumbnail: '/sophia-style/assets/images/thumbnail/'
-baseurl_javascripts: '/sophia-style/assets/javascripts/'
+baseurl:             /sophia-style/
+baseurl_posts_img:   /sophia-style/assets/images/posts/
+baseurl_featured_img: /sophia-style/assets/images/hero/
+baseurl_featured_thumbnail: /sophia-style/assets/images/thumbnail/
+baseurl_javascripts: /sophia-style/assets/javascripts/
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
